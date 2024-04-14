@@ -1,7 +1,7 @@
 {
   "name": "ngx-form-devtool",
   "description": "ngx form dev tool to help debugging forms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "peerDependencies": {
     "@angular/common": " ^16 || ^17",
     "@angular/core": " ^16 || ^17"
