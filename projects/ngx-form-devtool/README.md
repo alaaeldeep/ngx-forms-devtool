@@ -12,7 +12,7 @@ This Library will help you to debug forms when working Reactive Forms, and give 
 ## Quickstart
 
 ```
-  import { Component } from '@angular/core';
+ import { Component } from '@angular/core';
  import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
  import { NgxFormDevtool } from 'ngx-form-devtool';
 
@@ -36,9 +36,9 @@ This Library will help you to debug forms when working Reactive Forms, and give 
     />
   </div>
 
+  <!-- here 👇 -->
   <ngx-form-devtool [form]="form" />
 </form>
-
   `,
 })
 export class YourComponent  {

@@ -17,7 +17,7 @@ import { Required } from './ngx-form-devtools.service';
       <header class="header">
         <div class="logo-container">
           <span>
-            <img height="12" src="favicon.ico" alt="Angular Logo" />
+            <img height="12" src="./favicon.ico" alt="Angular Logo" />
           </span>
 
           <span> Angular Forms DevTool</span>
@@ -257,7 +257,7 @@ import { Required } from './ngx-form-devtools.service';
       class="ngxIcon"
       *ngIf="!isDevToolsOpened"
     >
-      <img width="18" src="favicon.ico" alt="Angular Logo" />
+      <img width="18" src="./favicon.ico" alt="Angular Logo" />
     </button> `,
   styles: `.ngxIcon {
   appearance: none;

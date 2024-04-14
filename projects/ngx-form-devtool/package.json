@@ -1,7 +1,7 @@
 {
   "name": "ngx-form-devtool",
   "description": "ngx form dev tool to help debugging forms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^14 || ^15 || ^16 || ^17",
     "@angular/core": "^14 || ^15 || ^16 || ^17"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com:alaaeldeep/ngx-forms-devtool.git"
   },
-  "homepage": "https://alaaeldeep.github.io/ngx-forms-devtool",
+  "homepage": "https://alaaeldeep.github.io/ngx-forms-devtool/",
   "author": "alaaeldeep <alaaeldeepdev@gmail.com>",
   "license": "MIT",
   "keywords": [
