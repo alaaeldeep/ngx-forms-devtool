@@ -59,6 +59,6 @@ export class YourComponent  {
 ## Compatibility
 
 ```
-  angular 16 , angular 17
+  Angular 16 , Angular 17
 
 ```
